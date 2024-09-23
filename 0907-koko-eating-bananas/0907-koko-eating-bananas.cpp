@@ -1,10 +1,10 @@
 class Solution {
 public:
-    bool is_possible(int k,vector<int>& piles, int h)
+    bool is_possible(int mid,vector<int>& piles, int h)
     {
         long long totalHour=0;
         for(auto i:piles){
-            totalHour += ceil(i*1.0/k);
+            totalHour += ceil(i*1.0/mid);
         }
         return (totalHour<=h);
     }
@@ -12,7 +12,9 @@ public:
         int low=1;
         int high=0;
         for(auto x: piles){
-            high += x;
+            if(high<x){
+                high=x;
+            }
         }
         while(low<=high){
             int mid=low+(high-low)/2;
