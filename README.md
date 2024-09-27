@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## String
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
+## Greedy
+|  |
+| ------- |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 <!---LeetCode Topics End-->
