@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0113-path-sum-ii) |
+| [0133-clone-graph](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0133-clone-graph) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1207-delete-nodes-and-return-forest) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0101-symmetric-tree) |
+| [0133-clone-graph](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0133-clone-graph) |
 | [1036-rotting-oranges](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1036-rotting-oranges) |
 ## Backtracking
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0133-clone-graph) |
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
 | [1207-delete-nodes-and-return-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1207-delete-nodes-and-return-forest) |
 ## Counting
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0045-jump-game-ii) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
