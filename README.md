@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0792-binary-search](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0792-binary-search) |
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
 | [0907-koko-eating-bananas](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0907-koko-eating-bananas) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0917-boats-to-save-people](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0917-boats-to-save-people) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Breadth-First Search
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
