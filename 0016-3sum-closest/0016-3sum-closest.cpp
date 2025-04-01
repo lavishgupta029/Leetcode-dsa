@@ -14,12 +14,15 @@ public:
                 int num3=nums[end];
                 int sum=num1+num2+num3;
                 int currDiff=abs(target - sum);
+                if(currDiff==0) return sum;
                 if(currDiff<diff){
                     ans=sum;
                     diff=currDiff;
                 }
                 if(sum<target) start++;
                 else end--;
+                // while(start<end &&nums[start]==num2) start++;
+                // while(start<end &&nums[end]==num3) end--;
             }
         }
         return ans;
