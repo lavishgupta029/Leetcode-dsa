@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0038-count-and-say](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0344-reverse-string) |
