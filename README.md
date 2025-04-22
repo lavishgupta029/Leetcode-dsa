@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0792-binary-search) |
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
