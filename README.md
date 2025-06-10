@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0113-path-sum-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0450-delete-node-in-a-bst) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0113-path-sum-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0450-delete-node-in-a-bst) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0141-linked-list-cycle) |
@@ -231,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0739-daily-temperatures) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
