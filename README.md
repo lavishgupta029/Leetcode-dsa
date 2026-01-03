@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0283-move-zeroes) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0179-largest-number) |
 | [0917-boats-to-save-people](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
@@ -171,11 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0169-majority-element) |
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
 | [1207-delete-nodes-and-return-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1207-delete-nodes-and-return-forest) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0169-majority-element) |
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
 ## Dynamic Programming
 |  |
@@ -244,4 +248,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
