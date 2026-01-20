@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2963-count-the-number-of-good-partitions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
 ## Binary Search
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -274,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2963-count-the-number-of-good-partitions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
+## Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
