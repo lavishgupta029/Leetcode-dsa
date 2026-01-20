@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0739-daily-temperatures](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0739-daily-temperatures) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
 | [1207-delete-nodes-and-return-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1207-delete-nodes-and-return-forest) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
