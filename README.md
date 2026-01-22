@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0713-subarray-product-less-than-k](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0792-binary-search) |
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0907-koko-eating-bananas) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0713-subarray-product-less-than-k](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Math
