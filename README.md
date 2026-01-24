@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2963-count-the-number-of-good-partitions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
 ## Binary Search
 |  |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2090-k-radius-subarray-averages](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Prefix Sum
 |  |
 | ------- |
