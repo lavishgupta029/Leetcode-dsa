@@ -1,24 +1,32 @@
 class Solution {
 public:
     int maxSatisfied(vector<int>& customers, vector<int>& grumpy, int minutes) {
-        int initialSatisfy=0;
-        int initialMax=0;
-        int maxExtraSatisfaction =0;
+        int result=0;
         int n=customers.size();
-        for(int i=0;i<n;i++){
-            if(grumpy[i]==0){
-                initialSatisfy += customers[i];
+        int currCust=0,maxCust=0;
+        int max_i,max_j;
+        int i=0,j=0;
+        while(j<n){
+            if(grumpy[j]==1) currCust += customers[j];
+            if(j-i+1==minutes){
+                if(currCust>maxCust){
+                    maxCust=currCust;
+                    max_i=i;
+                    max_j=j;
+                }
+                if(grumpy[i]==1) currCust -= customers[i];
+                i++;
             }
-            else if(i<minutes){
-                initialMax+= customers[i];
+            j++;
+        }
+        // cout<<max_i<<max_j;
+        for(i=0;i<n;i++){
+            if(grumpy[i]==0 || (i>=max_i && i<=max_j)) {
+                result += customers[i];
             }
+                
         }
-            maxExtraSatisfaction=initialMax;
-        for(int i=minutes;i<n;i++){
-            initialMax -= customers[i-minutes]*grumpy[i-minutes];
-            initialMax +=customers[i]*grumpy[i];
-            maxExtraSatisfaction=max(initialMax,maxExtraSatisfaction);
-        }
-        return maxExtraSatisfaction+initialSatisfy;
+        return result;
+
     }
 };
