@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2963-count-the-number-of-good-partitions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1207-delete-nodes-and-return-forest) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2963-count-the-number-of-good-partitions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
 ## Counting
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
