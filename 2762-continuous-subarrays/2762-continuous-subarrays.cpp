@@ -6,7 +6,7 @@ public:
         int i=0,j=0,n=nums.size();
         while(j<n){
             st.insert(nums[j]);
-            while(i<j && *prev(st.end())-*st.begin()>2){
+            while(i<j && *st.rbegin()-*st.begin()>2){
                 auto it=st.find(nums[i]);
                 st.erase(it);
                 i++;
