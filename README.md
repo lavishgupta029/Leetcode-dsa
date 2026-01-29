@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2762-continuous-subarrays](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2762-continuous-subarrays) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1207-delete-nodes-and-return-forest) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2963-count-the-number-of-good-partitions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
 ## Counting
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2762-continuous-subarrays](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2762-continuous-subarrays) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
