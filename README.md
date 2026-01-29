@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
 | [1208-get-equal-substrings-within-budget](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1208-get-equal-substrings-within-budget) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1207-delete-nodes-and-return-forest) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2963-count-the-number-of-good-partitions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
 ## Counting
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1052-grumpy-bookstore-owner](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1052-grumpy-bookstore-owner) |
 | [1208-get-equal-substrings-within-budget](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1208-get-equal-substrings-within-budget) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
