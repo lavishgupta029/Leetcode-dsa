@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1695-maximum-erasure-value](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1695-maximum-erasure-value) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2090-k-radius-subarray-averages](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1208-get-equal-substrings-within-budget) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2187-minimum-time-to-complete-trips](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
