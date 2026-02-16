@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2390-removing-stars-from-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Tree
 |  |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -434,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
