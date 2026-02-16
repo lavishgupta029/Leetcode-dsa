@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0179-largest-number) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1013-fibonacci-number](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [2963-count-the-number-of-good-partitions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
 ## Recursion
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0901-online-stock-span) |
