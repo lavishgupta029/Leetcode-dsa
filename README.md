@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0038-count-and-say) |
+| [0071-simplify-path](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0179-largest-number) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
