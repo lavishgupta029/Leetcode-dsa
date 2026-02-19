@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0456-132-pattern](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0739-daily-temperatures) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0456-132-pattern](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0792-binary-search) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0456-132-pattern](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0946-validate-stack-sequences) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0456-132-pattern](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0901-online-stock-span) |
 ## Divide and Conquer
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0456-132-pattern) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2762-continuous-subarrays](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2762-continuous-subarrays) |
