@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2751-robot-collisions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2751-robot-collisions) |
 | [2762-continuous-subarrays](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2762-continuous-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2751-robot-collisions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2751-robot-collisions) |
 ## Greedy
 |  |
 | ------- |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
+| [2751-robot-collisions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -455,4 +458,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
+| [2751-robot-collisions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
