@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2352-equal-row-and-column-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2352-equal-row-and-column-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2439-minimize-maximum-of-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2439-minimize-maximum-of-array) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1036-rotting-oranges) |
+| [2352-equal-row-and-column-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2336-smallest-number-in-infinite-set](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2336-smallest-number-in-infinite-set) |
+| [2352-equal-row-and-column-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1441-build-an-array-with-stack-operations) |
+| [2352-equal-row-and-column-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
