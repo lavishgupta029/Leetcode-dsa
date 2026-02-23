@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0179-largest-number) |
+| [0290-word-pattern](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
