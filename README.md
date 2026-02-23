@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2187-minimum-time-to-complete-trips](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2187-minimum-time-to-complete-trips) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1207-delete-nodes-and-return-forest) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1695-maximum-erasure-value) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0169-majority-element) |
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0992-subarrays-with-k-different-integers) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Dynamic Programming
 |  |
 | ------- |
