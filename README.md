@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0456-132-pattern](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [0648-replace-words](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0648-replace-words) |
 | [0713-subarray-product-less-than-k](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0792-binary-search) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0606-construct-string-from-binary-tree) |
+| [0648-replace-words](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0648-replace-words) |
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0567-permutation-in-string) |
+| [0648-replace-words](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0648-replace-words) |
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1207-delete-nodes-and-return-forest) |
@@ -484,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2751-robot-collisions) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
