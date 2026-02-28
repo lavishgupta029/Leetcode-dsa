@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2751-robot-collisions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2751-robot-collisions) |
 | [2762-continuous-subarrays](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2762-continuous-subarrays) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2963-count-the-number-of-good-partitions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2751-robot-collisions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2751-robot-collisions) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Greedy
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2963-count-the-number-of-good-partitions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
 ## Counting
