@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0648-replace-words) |
 | [0713-subarray-product-less-than-k](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0739-daily-temperatures) |
+| [0781-rabbits-in-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0781-rabbits-in-forest) |
 | [0792-binary-search](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0792-binary-search) |
 | [0826-most-profit-assigning-work](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0826-most-profit-assigning-work) |
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0179-largest-number) |
+| [0781-rabbits-in-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0781-rabbits-in-forest) |
 | [0826-most-profit-assigning-work](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0826-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0917-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0648-replace-words) |
+| [0781-rabbits-in-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0781-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1207-delete-nodes-and-return-forest) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0781-rabbits-in-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0781-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1512-number-of-good-pairs) |
 | [2963-count-the-number-of-good-partitions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
