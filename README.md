@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1019-squares-of-a-sorted-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1036-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1052-grumpy-bookstore-owner) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1207-delete-nodes-and-return-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1207-delete-nodes-and-return-forest) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0744-network-delay-time) |
+| [1046-last-stone-weight](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2336-smallest-number-in-infinite-set](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2336-smallest-number-in-infinite-set) |
