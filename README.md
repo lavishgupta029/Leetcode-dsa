@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0567-permutation-in-string) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0179-largest-number) |
+| [0295-find-median-from-data-stream](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0826-most-profit-assigning-work](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0826-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0744-network-delay-time](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0744-network-delay-time) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2336-smallest-number-in-infinite-set](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2336-smallest-number-in-infinite-set) |
@@ -485,11 +488,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0901-online-stock-span) |
 | [2336-smallest-number-in-infinite-set](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2336-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
