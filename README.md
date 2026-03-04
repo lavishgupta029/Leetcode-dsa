@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0456-132-pattern](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0648-replace-words](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0648-replace-words) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0744-network-delay-time](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0744-network-delay-time) |
