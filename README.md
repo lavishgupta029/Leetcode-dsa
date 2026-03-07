@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0648-replace-words](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0648-replace-words) |
+| [0767-reorganize-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0767-reorganize-string) |
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0767-reorganize-string) |
 | [0826-most-profit-assigning-work](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0826-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0179-largest-number) |
+| [0767-reorganize-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0767-reorganize-string) |
 | [0781-rabbits-in-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0781-rabbits-in-forest) |
 | [0826-most-profit-assigning-work](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0826-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0917-boats-to-save-people) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0648-replace-words) |
+| [0767-reorganize-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0767-reorganize-string) |
 | [0781-rabbits-in-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0781-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0992-subarrays-with-k-different-integers) |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0767-reorganize-string) |
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
 | [0992-subarrays-with-k-different-integers](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1512-number-of-good-pairs) |
@@ -375,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0744-network-delay-time](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0744-network-delay-time) |
+| [0767-reorganize-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1962-remove-stones-to-minimize-the-total) |
