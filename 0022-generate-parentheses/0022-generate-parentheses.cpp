@@ -1,25 +1,39 @@
 class Solution {
 public:
-    void backtrack(int open, int close, int n, vector<string> &ans, string str){
-        if(open ==n && close == n){
-            ans.push_back(str);
+    vector<string> result;
+    bool isValid(string curr){
+        int count=0;
+
+        for(auto &ch: curr){
+            if(ch=='('){
+                count++;
+            }
+            else{
+                count--;
+            }
+            if(count<0) return false;
+        }
+        return count==0;
+    }
+    void helper(string &curr, int open, int close, int n){
+        if(open>n || close>open) return;
+        if(curr.length() == 2*n){
+            if(isValid(curr)){
+                result.push_back(curr);
+            }
             return;
         }
-        if(open<n){
-            str.push_back('(');
-            backtrack(open+1,close,n, ans, str);
-            str.pop_back();
-        }
-        if(close<open){
-            str.push_back(')');
-            backtrack(open,close+1,n,ans,str);
-            str.pop_back();
-        }
+        curr.push_back('(');
+        helper(curr,open+1,close,n);
+        curr.pop_back();
+        curr.push_back(')');
+        helper(curr,open,close+1,n);
+        curr.pop_back();
     }
     vector<string> generateParenthesis(int n) {
-        vector<string> ans;
-        string str="";
-        backtrack(0,0,n,ans,str);
-        return ans;
-        }
+        string curr="";
+        int open=0,close=0;
+        helper(curr,open,close, n);
+        return result;
+    }
 };
