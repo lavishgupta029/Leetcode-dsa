@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0113-path-sum-ii) |
 ## Matrix
