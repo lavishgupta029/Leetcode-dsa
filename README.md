@@ -449,11 +449,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1512-number-of-good-pairs) |
 | [2963-count-the-number-of-good-partitions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1013-fibonacci-number) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -560,4 +562,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 <!---LeetCode Topics End-->
