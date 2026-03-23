@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0133-clone-graph) |
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
