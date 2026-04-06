@@ -11,23 +11,15 @@
  */
 class Solution {
 public:
-    TreeNode* invert(TreeNode* root){
-        if(root!=NULL){
-            invert(root->left);
-            invert(root->right);
-            TreeNode* temp=root->left;
-            root->left=root->right;
-            root->right=temp;
-        }
-        return root;
-    }
-    bool isEqual(TreeNode* tree, TreeNode* invertTree){
-        if(!tree && !invertTree) return true;
-        if(!tree || !invertTree) return false;
-        return tree->val==invertTree->val && isEqual(tree->left,invertTree->right) && isEqual(tree->right,invertTree->left);
+    bool helper(TreeNode* root1, TreeNode* root2){
+
+        if(!root1&& !root2) return true;
+        if(!root1 || !root2) return false;
+
+        return root1->val==root2->val && helper(root1->left,root2->right) && helper(root1->right,root2->left);
     }
     bool isSymmetric(TreeNode* root) {
-        // TreeNode* invertTree=invert(root);
-        return isEqual(root,root);
+        
+        return helper(root,root);
     }
 };
