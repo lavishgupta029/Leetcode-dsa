@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0872-leaf-similar-trees) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0744-network-delay-time) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0872-leaf-similar-trees) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0648-replace-words) |
+| [0652-find-duplicate-subtrees](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0767-reorganize-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0767-reorganize-string) |
 | [0781-rabbits-in-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0781-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0829-subdomain-visit-count) |
