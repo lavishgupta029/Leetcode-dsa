@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1207-delete-nodes-and-return-forest) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1207-delete-nodes-and-return-forest) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1207-delete-nodes-and-return-forest) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
 |  |
 | ------- |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2336-smallest-number-in-infinite-set](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2352-equal-row-and-column-pairs) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2780-minimum-index-of-a-valid-split) |
