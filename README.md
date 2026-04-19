@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0386-lexicographical-numbers) |
+| [0547-number-of-provinces](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0563-binary-tree-tilt) |
 | [0606-construct-string-from-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0617-merge-two-binary-trees) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0623-add-one-row-to-tree) |
 | [0684-redundant-connection](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0684-redundant-connection) |
@@ -621,4 +623,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
