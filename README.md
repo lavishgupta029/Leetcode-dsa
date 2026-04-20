@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0386-lexicographical-numbers) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0623-add-one-row-to-tree) |
@@ -630,5 +632,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
