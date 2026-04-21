@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0872-leaf-similar-trees](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0872-leaf-similar-trees) |
 | [1110-delete-nodes-and-return-forest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0623-add-one-row-to-tree) |
 | [0684-redundant-connection](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -629,11 +631,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
