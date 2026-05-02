@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0652-find-duplicate-subtrees) |
 | [0669-trim-a-binary-search-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0744-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0872-leaf-similar-trees](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0872-leaf-similar-trees) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0623-add-one-row-to-tree) |
 | [0684-redundant-connection](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0744-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0744-network-delay-time) |
 | [0767-reorganize-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1046-last-stone-weight) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0744-network-delay-time) |
 ## Sliding Window
 |  |
@@ -643,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
