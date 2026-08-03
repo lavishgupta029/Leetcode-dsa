@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0075-sort-colors) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0179-largest-number) |
@@ -655,4 +657,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0207-course-schedule) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
