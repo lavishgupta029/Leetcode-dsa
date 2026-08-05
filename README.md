@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0648-replace-words](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0648-replace-words) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/0648-replace-words) |
