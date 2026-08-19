@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2390-removing-stars-from-a-string](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/3335-total-characters-in-string-after-transformations-i) |
 ## Tree
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-minimum-index-of-a-valid-split](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2963-count-the-number-of-good-partitions](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/2963-count-the-number-of-good-partitions) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3335-total-characters-in-string-after-transformations-i](https://github.com/lavishgupta029/Leetcode-dsa/tree/master/3335-total-characters-in-string-after-transformations-i) |
 ## Counting
 |  |
